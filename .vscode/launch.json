@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CmsshoppingcartApplication<cmsshoppingcart>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.cmsproject.cmsshoppingcart.CmsshoppingcartApplication",
+      "projectName": "cmsshoppingcart",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
